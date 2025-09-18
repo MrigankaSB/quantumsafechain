@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>QuantumSafe Chain DApp</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>QuantumSafe Chain DApp</h1>
+    <p>Interact with the Post-Quantum Secure Blockchain Smart Contract</p>
+
+    <!-- Connect Wallet -->
+    <button id="connectWallet">🔗 Connect Wallet</button>
+    <p id="walletAddress"></p>
+
+    <hr>
+
+    <!-- Add Transaction -->
+    <h2>Add Quantum-Safe Transaction</h2>
+    <input type="text" id="txData" placeholder="Enter encrypted data" />
+    <button id="addTxBtn">➕ Add Transaction</button>
+    <p id="addTxStatus"></p>
+
+    <hr>
+
+    <!-- Get Transaction -->
+    <h2>Get Transaction</h2>
+    <input type="number" id="txId" placeholder="Transaction ID" />
+    <button id="getTxBtn">🔍 Get Transaction</button>
+    <pre id="txDetails"></pre>
+
+    <hr>
+
+    <!-- Transfer Ownership -->
+    <h2>Transfer Ownership</h2>
+    <input type="text" id="newOwner" placeholder="New owner address" />
+    <button id="transferOwnerBtn">🔑 Transfer Ownership</button>
+    <p id="ownerStatus"></p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
 
