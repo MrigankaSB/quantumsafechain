@@ -34,3 +34,7 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 - Hardhat / Truffle (optional for deployment & testing)
 
 ---
+
+## Contract Details: 0x4374eBa493CBf8331e480A35F28a70DbF85F6508
+
+<img width="1890" height="858" alt="image" src="https://github.com/user-attachments/assets/f158122c-4bb1-45de-b972-290dac6c5274" />
