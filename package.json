@@ -1,0 +1,27 @@
+{
+  "name": "quantumsafe-chain-post-quantum-secure-blockchain-network",
+  "version": "1.0.0",
+  "description": "QuantumSafe Chain: A Post-Quantum Secure Blockchain Network built with Solidity and Hardhat",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy:mumbai": "hardhat run scripts/deploy.js --network polygonMumbai"
+  },
+  "keywords": [
+    "solidity",
+    "hardhat",
+    "blockchain",
+    "quantum-safe",
+    "post-quantum"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.5"
+  }
+}
