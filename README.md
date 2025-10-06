@@ -40,3 +40,8 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ---
 
 <img width="1890" height="858" alt="image" src="https://github.com/user-attachments/assets/f158122c-4bb1-45de-b972-290dac6c5274" />
+
+---
+
+## GoG Waley Like Karo
+- Thoko Like, thoko, thoko, thoko
