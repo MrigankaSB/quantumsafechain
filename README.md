@@ -44,4 +44,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ---
 
 ## GoG Waley Like Karo
-- Thoko Like, thoko, thoko, thoko
+- Hardin ek commit, samjha na, tu samjha na!
