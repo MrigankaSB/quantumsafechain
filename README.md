@@ -50,3 +50,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 - Yeh sab kya kar rahe ho tumlog yaar!
 - Matt karo yeh sab!
 - Ekdin gande tarikhe se maare jaaoge
+- Delete karr raha hoon ruk bhai
