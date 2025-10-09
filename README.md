@@ -46,3 +46,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ## GoG Waley Like Karo
 - GoG GoG GoG GoG GoG
 - Yeh GoG GoG GoG GoG matt likho yaar
+- Theek hai delete kar raha hoon
