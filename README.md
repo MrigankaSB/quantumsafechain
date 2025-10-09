@@ -44,5 +44,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ---
 
 ## GoG Waley Like Karo
-- Aham Bramhasmi!
-- I am the alfa and omega of the universe!
+- GoG GoG GoG GoG GoG
