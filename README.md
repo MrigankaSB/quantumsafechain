@@ -43,4 +43,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 
 ---
 
-## GoG Waley Like Karo
+## GoG Waley Follow Karlo Mujhe
