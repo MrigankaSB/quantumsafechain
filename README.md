@@ -49,4 +49,3 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 - Mai aaj hi 10 commit karta hu bhai
 - Yeh sab kya kar rahe ho tumlog yaar!
 - Matt karo yeh sab!
-- Ekdin gande tarikhe se maare jaaoge
