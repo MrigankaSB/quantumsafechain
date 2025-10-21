@@ -46,3 +46,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ## GoG Waley Follow Karlo Mujhe
 - Please Follow kar na bhai, please!
 - Hi Sir, Kerala Sir!
+- Jatt don't care!
