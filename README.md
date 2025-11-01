@@ -44,4 +44,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ---
 
 ## GoG Waley Follow Karlo Mujhe
-- 31/10/2025 Done! Abb New Month start hoga!
+- 01/11/2025
