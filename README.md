@@ -1,4 +1,4 @@
-# QuantumSafe Chain: Post-Quantum Secure Blockchain Network
+pp# QuantumSafe Chain: Post-Quantum Secure Blockchain Network
 
 ## 📌 Project Description
 QuantumSafe Chain is a prototype blockchain smart contract designed to simulate **post-quantum secure** principles.  
@@ -44,4 +44,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ---
 
 ## GoG Waley Follow Karlo Mujhe
-- 07/12/2025
+- 08/12/2025
