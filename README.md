@@ -44,4 +44,4 @@ To build a **quantum-resilient blockchain network** that ensures secure transact
 ---
 
 ## GoG Waley Follow Karlo Mujhe
-- 13/12/2025
+- 15/12/2025
